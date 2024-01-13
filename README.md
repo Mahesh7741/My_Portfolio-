@@ -13,13 +13,11 @@ I am excited to share my journey and showcase my work through this portfolio web
 - HTML5
 - CSS3
 - JavaScript
-- [Any other technologies or frameworks you used]
 
 ## Features
 
 - Responsive design for various devices
 - Sections for showcasing projects, skills, and experiences
-- [Any other features you implemented]
 
 ## Getting Started
 
