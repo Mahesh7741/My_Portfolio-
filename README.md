@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-![Portfolio Screenshot](path/to/screenshot.png)
+![Portfolio Screenshot](./assets/Screenshot 2024-01-13 151402.png)
 
 Hello there! 👋 Welcome to the repository for my personal portfolio website.
 
