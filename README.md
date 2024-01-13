@@ -25,4 +25,4 @@ I am excited to share my journey and showcase my work through this portfolio web
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone  https://github.com/Mahesh7741/My_Portfolio-.git
