@@ -1,5 +1,7 @@
 # My Portfolio Website
 
+![Portfolio Screenshot](path/to/screenshot.png)
+
 Hello there! 👋 Welcome to the repository for my personal portfolio website.
 
 ## About
